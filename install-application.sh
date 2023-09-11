@@ -6,6 +6,9 @@ brew install cmatrix
 brew install docker
 brew install nvm
 brew install go
+brew install typescript
+brew install htop
+brew install java
 
 
 # GUI apps
@@ -24,29 +27,24 @@ brew install --cask anaconda
 brew install --cask postman
 brew install --cask android-studio
 brew install --cask bilibili
-brew install --cask keyboard-cleaner
 brew install --cask messenger
 brew install --cask zoom
 brew install --cask cheatsheet
 brew install --cask bitwarden
 brew install --cask appcleaner
-brew install --cask dropzone
 brew install --cask itsycal
 brew install --cask scroll-reverser
-# brew install --cask command-x
-# brew install --cask google-cloud-sdk
-# brew install --cask topnotch
-# brew install --cask steam
-
+brew install --cask stats
+brew install --cask bartender
+brew install --cask google-cloud-sdk
+brew install --cask iterm2
+brew install --cask runcat-plugins-manager
+brew install --cask flutter
+brew install --cask keyboardcleantool
 
 # App Store apps
 # Amphetamine
 # CopyClip
 # CapCut
 # Handmirror
-
-
-# Crack apps
-# istat menus
-# bartender
-# alfred power pack
+# Dropover
